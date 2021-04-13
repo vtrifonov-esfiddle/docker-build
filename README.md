@@ -2,7 +2,7 @@
 Docker CLI and docker-compose inside container
 
 
-## Use inside kubernetes
+## Use inside Kubernetes
 
 ```yaml
 
